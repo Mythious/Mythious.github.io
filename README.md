@@ -1,8 +1,12 @@
-## Dissertation
+## Machine Learning Dissertation Project
 <img src="images/dissimage.png">
 
-# Can games learn and adapt?
+### Can games learn and adapt?
+This dissertation project aimed to achieve and answer two questions.
+1. Can machine learning within a project better compete against a user?
+2. Can the game change over time in response to users' actions so that the game remains novel to play.
 
+Available at: notimplemented
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Mythious/Mythious.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
