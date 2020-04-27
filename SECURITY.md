@@ -12,5 +12,5 @@ If you want we will publicly acknowledge your responsible disclosure.
 We also try to make the issue public after the vulnerability is announced.
 Usually bug reports are made public after 30 days, if possible.
 
-You are not allowed to search for security vulnerabilities on any hosted service of Syna Theme Starter without the consent of the party hosting it.
-Syna Theme Starter is open source software and can be installed for testing and security issues on your own infrastructure.
+You are not allowed to search for security vulnerabilities on any hosted service of Syna Theme without the consent of the party hosting it.
+Syna Theme is open source software and can be installed for testing and security issues on your own infrastructure.

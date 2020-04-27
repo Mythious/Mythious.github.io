@@ -13,6 +13,6 @@ If you're looking for help check out [our support guidelines](/SUPPORT.md).
 **Anything else we need to know?**:
 
 **Environment**:
-- Syna Theme Starter version:  
+- Syna Theme version:  
 - Hugo version:  
 - Others:
