@@ -1,46 +1,30 @@
-## Machine Learning Dissertation Project
-<img src="images/dissimage.png">
+<a href='https://syna.okkur.org'><img src='https://raw.githubusercontent.com/okkur/syna-start/master/static/images/logo.svg?sanitize=true' width='500'/></a>
 
-### Can games learn and adapt?
-This dissertation project aimed to achieve and answer two questions.
-1. Can machine learning within a project better compete against a user?
-2. Can the game change over time in response to users' actions so that the game remains novel to play.
+Start repository for Syna Theme
 
-Available at: notimplemented
-## Welcome to GitHub Pages
+ [![state](https://img.shields.io/badge/state-stable-green.svg)]() [![license](https://img.shields.io/github/license/okkur/syna-start.svg)](LICENSE)
 
-You can use the [editor on GitHub](https://github.com/Mythious/Mythious.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# Syna Theme Starter
+Get started with Syna right away. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Using Syna Theme Starter
+Take a look at our full [documentation](https://syna.okkur.org/docs).
 
-```markdown
-Syntax highlighted code block
+## Support
+For detailed information on support options see our [support guide](/SUPPORT.md).
 
-# Header 1
-## Header 2
-### Header 3
+## Helping out
+Best place to start is our [contribution guide](/CONTRIBUTING.md).
 
-- Bulleted
-- List
+----
 
-1. Numbered
-2. List
+*Code is licensed under the [Apache License, Version 2.0](/LICENSE).*  
+*Documentation/examples are licensed under [Creative Commons BY-SA 4.0](/docs/LICENSE).*  
+*Illustrations, trademarks and third-party resources are owned by their respective party and are subject to different licensing.*
 
-**Bold** and _Italic_ and `Code` text
+---
 
-[Link](url) and ![Image](src)
-```
+Copyright 2017 - The Syna Theme Starter Authors
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mythious/Mythious.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
