@@ -14,6 +14,6 @@ bug | feature
 **Anything else we need to know?**:
 
 **Environment**:
-- Syna Theme version:  
+- Syna Theme Starter version:  
 - Hugo version:  
 - Others:

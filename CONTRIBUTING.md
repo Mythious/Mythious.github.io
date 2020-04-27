@@ -11,13 +11,13 @@ By submitting code as an entity you agree to the
 
 ## Contribute to Project
 
-Thank you for your interest in contributing to Syna Theme.  
-This guide helps make contributing to Syna Theme simple and efficient for everyone.
+Thank you for your interest in contributing to Syna Theme Starter.  
+This guide helps make contributing to Syna Theme Starter simple and efficient for everyone.
 
 ### First contribution
 
-If you are starting out contributing to Syna Theme, there might be smaller scoped "starter issues" available:
-[Current starter issues](https://github.com/okkur/syna/labels/starter%20issue)
+If you are starting out contributing to Syna Theme Starter, there might be smaller scoped "starter issues" available:
+[Current starter issues](https://github.com/okkur/syna-start/labels/starter%20issue)
 
 ### Report bug
 
@@ -25,7 +25,7 @@ If you are sure you found a bug and no issue exists yet, please feel free to cre
 
 ### New feature
 
-As your time is precious and not all features might be in the scope of what the Syna Theme wants to achieve, please open up an issue first.
+As your time is precious and not all features might be in the scope of what the Syna Theme Starter wants to achieve, please open up an issue first.
 
 It would be helpful to answer some questions:
   * Why do you need this feature?
