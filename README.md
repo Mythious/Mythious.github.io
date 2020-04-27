@@ -1,3 +1,8 @@
+## Dissertation
+<img src="images/dissimage.png">
+
+# Can games learn and adapt?
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Mythious/Mythious.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
